@@ -14,9 +14,5 @@ Als een volgende deelnemer, "Jan", zijn naam toe voegt veranderd dit in `Piet, H
 
 ### Deelnemers
 
-<<<<<<< HEAD
-Thomas
-
-=======
 Joannis, Thomas, Benjamin, Cees, Stijn en Dick
->>>>>>> opdracht-2
+
